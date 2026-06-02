@@ -1,0 +1,19 @@
+# World Flower Guide — All Flower Species
+
+> A comprehensive guide to all flower species in the world, covering origins, colors, families and descriptions.
+
+This site contains a comprehensive index of 1,712 flowering plant species from around the world. Each species page includes common name, scientific name, botanical family, geographic origin, color variants, growing information, cultural significance, fun facts, and 5 detailed FAQs.
+
+## Coverage
+
+- Total species: 1,712
+- Data includes: common name, scientific name, family, origin, color, description, growing tips, cultural significance, FAQs
+- Format: Descriptive paragraph format
+
+## Usage
+
+This data is freely available for educational and research purposes.
+
+## Contact
+
+For data corrections or additions, refer to the domain contact information.
